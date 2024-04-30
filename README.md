@@ -1,6 +1,13 @@
 # discord-bot
 simple discord bot for tickets, economy and more
 
+## how to run
+1. install python3
+2. install requirements:
+   ```pip install -r requirements.txt```
+4. run this command:
+   ```python3 bot.py```
+
 ## example config
 ```json
 {
