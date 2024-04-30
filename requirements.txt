@@ -1,0 +1,7 @@
+discord.py
+requests
+chat-exporter
+asyncio
+datetime
+uuid
+github
