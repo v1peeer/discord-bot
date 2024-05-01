@@ -40,7 +40,7 @@ class Ticket(commands.Cog):
         with open(file_path, "r", encoding="utf-8") as file:
             content = file.read()
             repo.create_file(file_name, f"Added transcript for {member_name}", content)
-        netlify_link = f"https://transcripts69.netlify.app/{file_name}"
+        netlify_link = f"https://pastebin.com/raw/ZzVcWk2m"
         os.remove(file_path)
         return netlify_link
         
