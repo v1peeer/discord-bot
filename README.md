@@ -1,10 +1,11 @@
 # discord bot
 simple discord bot for tickets, economy and more
 
-## how to run
+## how to use
 1. install python3
 2. install requirements:
    ```pip install -r requirements.txt```
+3. edit the config
 4. run this command:
    ```python3 bot.py```
 
