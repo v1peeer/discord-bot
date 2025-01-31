@@ -3,20 +3,18 @@ simple discord bot for tickets, economy and more
 
 ## how to use
 1. install python3
-2. install requirements:
-   ```pip install -r requirements.txt```
+2. install requirements: `pip install -r requirements.txt`
 3. edit the config
-4. run this command:
-   ```python3 bot.py```
+4. start the bot: `python3 bot.py`
 
 ## example config
 ```json
 {
-	"github_token": "your_github_token_here",
-	"repo_name": "your_repo_name_here",
-	"github_username": "your_github_username_here",
-	"prefix": "+",
-	"token": "your_bot_token_here"
+    "github_token": "your_github_token_here",
+    "repo_name": "your_repo_name_here",
+    "github_username": "your_github_username_here",
+    "prefix": "+",
+    "token": "your_bot_token_here"
 }
 ```
 
