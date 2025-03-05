@@ -1,5 +1,5 @@
 # discord bot
-simple discord bot for tickets, economy and more
+simple discord bot for tickets, economy etc.
 
 ## how to use
 1. install python3
