@@ -20,7 +20,7 @@ simple discord bot for tickets, economy etc.
     "github_token": "",
     "repo_name": "",
     "github_username": "",
-    "prefix": "",
+    "prefix": "+",
     "token": ""
 }
 ```
