@@ -17,11 +17,11 @@ simple discord bot for tickets, economy etc.
 # example config
 ```json
 {
-    "github_token": "your_github_token_here",
-    "repo_name": "your_repo_name_here",
-    "github_username": "your_github_username_here",
-    "prefix": "+",
-    "token": "your_bot_token_here"
+    "github_token": "",
+    "repo_name": "",
+    "github_username": "",
+    "prefix": "",
+    "token": ""
 }
 ```
 - github token, username and repo name are required for the ticket transcripts to work
